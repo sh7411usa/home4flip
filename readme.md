@@ -1,1 +1,1 @@
-Utility "Home4Flip" by sh7411usa.
+Utility domain for "Home4Flip" by sh7411usa.
